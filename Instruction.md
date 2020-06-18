@@ -1,6 +1,6 @@
 # CSharpReactJS-HahnExam
 
-Instruction on Building Hann exam project.
+Instruction on Building Hahn exam project.
 
 Steps
 ======
