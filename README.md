@@ -1,5 +1,5 @@
-# CSharpReactJS-HahnExam
-C# Full Stack Developer Exam for Hahn-Softwareentwicklung
+# HahnExam
+C# Developer Exam for Hahn-Softwareentwicklung
 
 Exam Details
 =============
